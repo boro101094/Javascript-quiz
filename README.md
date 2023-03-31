@@ -10,5 +10,9 @@ In this project the user will be able to take a quiz on some Javascript question
 - After completion the user will be able to save the score with his/her initials.
 
 ## Screenshots
+![](./assets/img/screen1.png) 
+![](./assets/img/screen2.png) 
+![](./assets/img/screen3.png) 
 
 ## Live URL
+https://boro101094.github.io/Javascript-quiz/
